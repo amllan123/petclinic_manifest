@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: petclinic
-        image: adrf968/petclinic:17
+        image: adrf968/petclinic:18
         ports:
         - containerPort: 80
